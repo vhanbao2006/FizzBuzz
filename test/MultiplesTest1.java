@@ -1,13 +1,14 @@
 import lab1.Multiples;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
 /*
   Some test cases for Multiples.
  */
-public class MultiplesTest {
+public class MultiplesTest1 {
 
-    // TODO: When you are ready to test task X,
     //  copy this file into the test folder.
 
     @Test
